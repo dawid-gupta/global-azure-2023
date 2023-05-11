@@ -1,4 +1,4 @@
-# TEST
+# TEST1
 # Dockerfile for content-api
 # This is the base image that can be used
 FROM node:fermium  
